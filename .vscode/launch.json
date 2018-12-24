@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Override",
+            "request": "launch",
+            "mainClass": "Override"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Extend",
             "request": "launch",
             "mainClass": "Extend"
