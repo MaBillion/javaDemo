@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CSL",
+            "request": "launch",
+            "mainClass": "CSL"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VirtualDemo",
             "request": "launch",
             "mainClass": "VirtualDemo"
